@@ -1,0 +1,63 @@
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.exe
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.deps.json
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.runtimeconfig.json
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.runtimeconfig.dev.json
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.pdb
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.csproj.AssemblyReference.cache
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.AssemblyInfoInputs.cache
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.AssemblyInfo.cs
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.csproj.CoreCompileInputs.cache
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\staticwebassets\HealthChecks.StaticWebAssets.Manifest.cache
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\staticwebassets\HealthChecks.StaticWebAssets.xml
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthChecks.styles.css
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.RazorTargetAssemblyInfo.cache
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.pdb
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.genruntimeconfig.cache
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\eduard.solbros\Desktop\HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.csproj.CopyComplete
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\appsettings.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.StaticWebAssets.xml
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.exe
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.deps.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.runtimeconfig.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.runtimeconfig.dev.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.pdb
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.csproj.AssemblyReference.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.GeneratedMSBuildEditorConfig.editorconfig
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.AssemblyInfoInputs.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.AssemblyInfo.cs
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.csproj.CoreCompileInputs.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.MvcApplicationPartsAssemblyInfo.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\staticwebassets\HealthChecks.StaticWebAssets.Manifest.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.RazorTargetAssemblyInfo.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.csproj.CopyComplete
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.pdb
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo HealthCheck\HealthChecks\HealthChecks\obj\Debug\netcoreapp3.1\HealthChecks.genruntimeconfig.cache
